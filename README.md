@@ -29,3 +29,7 @@ A REST API built with Spring Boot for managing tasks — Create, Read, Update, a
 {
   "title": "Finish Spring Boot Project"
 }
+
+## ✅ Features
+- Input validation with @NotBlank, @Size
+- Global error handling using @ControllerAdvice
