@@ -8,6 +8,8 @@ A REST API built with Spring Boot for managing tasks — Create, Read, Update, a
 - In-memory H2 database
 - Spring Data JPA
 - JSON request/response
+- Input validation with @NotBlank, @Size
+- Global error handling using @ControllerAdvice
 
 ## 📦 Tech Stack
 - Java
@@ -30,6 +32,4 @@ A REST API built with Spring Boot for managing tasks — Create, Read, Update, a
   "title": "Finish Spring Boot Project"
 }
 
-## ✅ Features
-- Input validation with @NotBlank, @Size
-- Global error handling using @ControllerAdvice
+
